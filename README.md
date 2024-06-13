@@ -35,3 +35,7 @@ The shortcode supports the following attributes:
   `[dll_login_button text="Login now!" class="button" id="login-button"]`
   Output:
   `<a href="https://example.com/login?redirect_to=https%3A%2F%2Fexample.com%2Fcurrent-page" class="button" id="login-button">Login now!</a>`
+
+## Options
+
+You can customize the Login Link and the Parameter name in the Backend via **Options > Dynamic Login Link**.
